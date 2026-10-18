@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736807211812",
+    "project_id": "plant-care-reminder-b8f9e",
+    "storage_bucket": "plant-care-reminder-b8f9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736807211812:android:75593ee7ec01c8e2e119b1",
+        "android_client_info": {
+          "package_name": "com.example.plant_identifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlowgnpLdwmaNQ5B514ka5lSYVtLPFCM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736807211812:android:58dfe78480a5992fe119b1",
+        "android_client_info": {
+          "package_name": "com.example.plantcare.plant_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlowgnpLdwmaNQ5B514ka5lSYVtLPFCM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
